@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am Arshea Atif, a student who's trying to learn GitHub.
+
 
 <!--
 **arshea-02/arshea-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
