@@ -1,4 +1,4 @@
-### Hi there 👋 I am Arshea Atif, a student who's new to learn GitHub. I'm currently learning Python and its liberaries pandas, numpy and matplotlib. I'm passionate about Data Science. I have completed a few pyhthon projects from FreeCodeCamp.
+### Hi there 👋 I am Arshea Atif, a student who's getting familier with GitHub.
 
 
 <!--
