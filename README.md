@@ -1,4 +1,4 @@
-### Hi there 👋 I am Arshea Atif, a student who's getting familier with GitHub.
+### Hi there 👋 I am Arshea Atif, a student who's getting familiar with GitHub.
 
 
 <!--
