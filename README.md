@@ -1,4 +1,4 @@
-### Hi there 👋 I am Arshea Atif, a student who's getting familiar with GitHub.
+### Hi there 👋 I am Arshea Atif, an 8th semester student who's currently learning/working in Web Development, and particularily MERN.
 
 
 <!--
